@@ -5,3 +5,4 @@
 + testando restore
 
 + comando push
++ comando git pull
